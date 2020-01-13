@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CSCB07CourseProject</string>
+    <string name="add_client">Add a client</string>
+    <string name="button_add">Add</string>
+    <string name="view_client">Enter an email</string>
+    <string name="button_view">View</string>
+</resources>
+
